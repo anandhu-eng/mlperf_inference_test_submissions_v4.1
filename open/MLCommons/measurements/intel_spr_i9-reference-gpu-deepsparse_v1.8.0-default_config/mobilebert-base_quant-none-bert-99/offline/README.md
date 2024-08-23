@@ -47,7 +47,7 @@ cm rm cache -f
 
 Platform: intel_spr_i9-reference-gpu-deepsparse_v1.8.0-default_config
 
-Model Precision: open
+Model Precision: int8
 
 ### Accuracy Results 
 `F1`: `90.81269`, Required accuracy for closed division `>= 89.96526`
